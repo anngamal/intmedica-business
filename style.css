@@ -1,0 +1,69 @@
+body {background-color: rgb(245, 235, 235);}
+
+#navbar {
+width: auto;
+background-color: #7d6060;
+color: white; 
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+#img {
+width : 500px;
+}
+#scriptsSection, #form{
+padding: 20px;
+text-align: center;
+border: 0.5px solid #ccc;
+/* margin: 0;  */
+/* box-shadow: 0 4px 8px rgba(0,0,0,0.1); */
+}
+#mainImg {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+#learnmore {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#h3 {
+    position: absolute;
+    top: 37%;
+    left:39%;
+}
+ #input2, #input3 {
+    width: 300;
+    position: absolute;
+   
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    color:black;
+    font-size: 16px;
+    padding: 8px 20px; 
+    /* //elly by5ly shkl el zrayer akbr w ahla  */
+    border: 0.1 px; 
+}
+#btn {
+    padding:5px 20px;
+    background-color: white;
+    border: none;
+}
+
+#email, #linkedin, #intmedica{
+    background-color: white;
+    padding:5px 10px;
+}

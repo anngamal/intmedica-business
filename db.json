@@ -1,0 +1,12 @@
+{
+    "manufactures" :[
+        {
+        "id" : 1,
+        "name" :"Therabody"
+    },
+    {
+        "id" :2,
+        "name" :"DJO"
+    }
+    ]
+}
